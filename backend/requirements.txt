@@ -4,4 +4,3 @@ torch==2.5.1+cpu
 transformers
 flask
 flask-cors
-python-dotenv
