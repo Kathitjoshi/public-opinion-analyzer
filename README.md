@@ -141,6 +141,7 @@ The application will be accessible at `http://localhost:3000`.
 
 This project uses GitHub Actions to automatically validate frontend builds and backend dependencies on every push and pull request.
 
+---
 
 ## Future Enhancements
 
