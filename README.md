@@ -151,9 +151,11 @@ This project uses GitHub Actions to automatically validate frontend builds and b
 
 ---
 
-## Certain Diagrams for fun
+## Certain Architectural Diagrams for fun
 
 <img width="1536" height="1024" alt="ChatGPT Image Dec 29, 2025, 12_01_39 AM" src="https://github.com/user-attachments/assets/78887998-d166-4a6d-a4c7-0d2fb2989d37" />
+
+
 
 ![Data-integrity-hashing-algorithm](https://github.com/user-attachments/assets/31c5293a-b335-45c5-9c7b-80e2c40621b7)
 
