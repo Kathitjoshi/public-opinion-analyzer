@@ -147,8 +147,6 @@ This project uses GitHub Actions to automatically validate frontend builds and b
 
 - Database integration
 - Visualization dashboards
-- CD automation
-- Cloud deployment
 - Advanced analytics
 
 ---
