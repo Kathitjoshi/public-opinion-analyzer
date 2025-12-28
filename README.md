@@ -1,6 +1,6 @@
 # Public Opinion Analyzer
 
-Public Opinion Analyzer is a full-stack web application designed to collect and analyze public opinions on contemporary social, environmental, and policy-related questions. The system leverages transformer-based natural language processing models to perform sentiment analysis and text summarization while maintaining a clean and unbiased user experience.
+Public Opinion Analyzer is a full-stack web application designed to collect and analyze public opinions on contemporary social, environmental, and policy-related questions. The system leverages transformer-based natural language processing models to perform sentiment analysis and text summarization while maintaining a clean and unbiased user experience.**Note: The Hugging Face Space uses a simplified Gradio-based implementation for deployment**
 
 The project focuses on simplicity, reliability, and interview-ready system design rather than overengineering.
 
