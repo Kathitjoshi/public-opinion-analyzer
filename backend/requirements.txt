@@ -1,5 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch==2.2.2+cpu
+transformers
 flask
 flask-cors
-transformers
-torch
 python-dotenv
