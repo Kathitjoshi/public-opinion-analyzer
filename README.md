@@ -137,11 +137,16 @@ The application will be accessible at `http://localhost:3000`.
 
 ---
 
+## Continuous Integration
+
+This project uses GitHub Actions to automatically validate frontend builds and backend dependencies on every push and pull request.
+
+
 ## Future Enhancements
 
 - Database integration
 - Visualization dashboards
-- CI/CD automation
+- CD automation
 - Cloud deployment
 - Advanced analytics
 
