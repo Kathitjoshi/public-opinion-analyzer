@@ -7,6 +7,8 @@ yarn-debug.log*
 yarn-error.log*
 build/
 dist/
+.vite/
+*.local
 
 # =====================
 # Python
@@ -15,20 +17,83 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.env
+*.so
+*.egg
+*.egg-info/
+.Python
 venv/
+env/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# =====================
+# Environment
+# =====================
+.env
 .env.*
-*.sqlite3
+!.env.example
 
 # =====================
-# OS / Editor
+# Model Cache (HuggingFace)
 # =====================
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
+backend/.cache/
+backend/models/
+.transformers_cache/
 
 # =====================
-# Data files (optional)
+# Data files
 # =====================
 backend/data/feedback.csv
+backend/data/*.csv
+!backend/data/.gitkeep
+
+# =====================
+# OS
+# =====================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# =====================
+# IDE
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# =====================
+# Logs
+# =====================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =====================
+# Testing
+# =====================
+coverage/
+.nyc_output/
+.pytest_cache/
+htmlcov/
+
+# =====================
+# Misc
+# =====================
+*.bak
+*.tmp
+*.temp
+.cache/
