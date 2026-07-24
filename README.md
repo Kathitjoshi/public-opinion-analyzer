@@ -7,6 +7,11 @@
 
 **Public Opinion Analyzer** is a full-stack web application designed to collect and analyze public opinions on contemporary social, environmental, and policy-related questions. The system leverages transformer-based natural language processing (NLP) models to perform sentiment analysis and text summarization while maintaining a clean and unbiased user experience.
 
+
+<img width="1961" height="1044" alt="image" src="https://github.com/user-attachments/assets/faf92077-b7eb-4a46-b9c1-d336f3b91228" />
+
+
+
 🚀 **[Try Live Demo on HuggingFace Space](https://huggingface.co/spaces/Kathit/public-opinion-analyzer)**
 
 > [!NOTE]
